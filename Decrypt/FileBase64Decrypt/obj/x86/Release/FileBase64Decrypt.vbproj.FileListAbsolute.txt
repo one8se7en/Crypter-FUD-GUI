@@ -1,0 +1,49 @@
+C:\Users\dderos\AppData\Local\Temporary Projects\FileBase64Decrypt\bin\Release\FileBase64Decrypt.exe
+C:\Users\dderos\AppData\Local\Temporary Projects\FileBase64Decrypt\bin\Release\FileBase64Decrypt.pdb
+C:\Users\dderos\AppData\Local\Temporary Projects\FileBase64Decrypt\bin\Release\FileBase64Decrypt.xml
+C:\Users\dderos\AppData\Local\Temporary Projects\FileBase64Decrypt\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\dderos\AppData\Local\Temporary Projects\FileBase64Decrypt\obj\x86\Release\FileBase64Decrypt.Form1.resources
+C:\Users\dderos\AppData\Local\Temporary Projects\FileBase64Decrypt\obj\x86\Release\FileBase64Decrypt.Resources.resources
+C:\Users\dderos\AppData\Local\Temporary Projects\FileBase64Decrypt\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\dderos\AppData\Local\Temporary Projects\FileBase64Decrypt\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\dderos\AppData\Local\Temporary Projects\FileBase64Decrypt\obj\x86\Release\FileBase64Decrypt.exe
+C:\Users\dderos\AppData\Local\Temporary Projects\FileBase64Decrypt\obj\x86\Release\FileBase64Decrypt.xml
+C:\Users\dderos\AppData\Local\Temporary Projects\FileBase64Decrypt\obj\x86\Release\FileBase64Decrypt.pdb
+D:\Windows\Sorgenti\Visual Basic.net\Miei Progetti\FileBase64Decrypt\FileBase64Decrypt\obj\x86\Release\FileBase64Decrypt.exe
+D:\Windows\Sorgenti\Visual Basic.net\Miei Progetti\FileBase64Decrypt\FileBase64Decrypt\obj\x86\Release\FileBase64Decrypt.xml
+D:\Windows\Sorgenti\Visual Basic.net\Miei Progetti\FileBase64Decrypt\FileBase64Decrypt\obj\x86\Release\FileBase64Decrypt.pdb
+D:\Windows\Sorgenti\Visual Basic.net\Miei Progetti\FileBase64Decrypt\FileBase64Decrypt\bin\Release\FileBase64Decrypt.exe
+D:\Windows\Sorgenti\Visual Basic.net\Miei Progetti\FileBase64Decrypt\FileBase64Decrypt\bin\Release\FileBase64Decrypt.pdb
+D:\Windows\Sorgenti\Visual Basic.net\Miei Progetti\FileBase64Decrypt\FileBase64Decrypt\bin\Release\FileBase64Decrypt.xml
+D:\Windows\Sorgenti\Visual Basic.net\Miei Progetti\FileBase64Decrypt\FileBase64Decrypt\obj\x86\Release\FileBase64Decrypt.Form1.resources
+D:\Windows\Sorgenti\Visual Basic.net\Miei Progetti\FileBase64Decrypt\FileBase64Decrypt\obj\x86\Release\FileBase64Decrypt.Resources.resources
+D:\Windows\Sorgenti\Visual Basic.net\Miei Progetti\FileBase64Decrypt\FileBase64Decrypt\obj\x86\Release\FileBase64Decrypt.vbproj.GenerateResource.Cache
+C:\Users\Darix\Desktop\FileBase64Decrypt\FileBase64Decrypt\obj\x86\Release\FileBase64Decrypt.vbproj.GenerateResource.Cache
+C:\Users\Darix\Desktop\FileBase64Decrypt\FileBase64Decrypt\bin\Release\Dec.exe
+C:\Users\Darix\Desktop\FileBase64Decrypt\FileBase64Decrypt\bin\Release\Dec.pdb
+C:\Users\Darix\Desktop\FileBase64Decrypt\FileBase64Decrypt\bin\Release\Dec.xml
+C:\Users\Darix\Desktop\FileBase64Decrypt\FileBase64Decrypt\obj\x86\Release\Dec.Form1.resources
+C:\Users\Darix\Desktop\FileBase64Decrypt\FileBase64Decrypt\obj\x86\Release\Dec.Resources.resources
+C:\Users\Darix\Desktop\FileBase64Decrypt\FileBase64Decrypt\obj\x86\Release\Dec.exe
+C:\Users\Darix\Desktop\FileBase64Decrypt\FileBase64Decrypt\obj\x86\Release\Dec.xml
+C:\Users\Darix\Desktop\FileBase64Decrypt\FileBase64Decrypt\obj\x86\Release\Dec.pdb
+D:\Windows\Sorgenti\Visual Basic.net\Miei Progetti\FileBase64Decrypt\FileBase64Decrypt\obj\x86\Release\Dec.exe
+D:\Windows\Sorgenti\Visual Basic.net\Miei Progetti\FileBase64Decrypt\FileBase64Decrypt\obj\x86\Release\Dec.xml
+D:\Windows\Sorgenti\Visual Basic.net\Miei Progetti\FileBase64Decrypt\FileBase64Decrypt\obj\x86\Release\Dec.pdb
+D:\PenTesting\Sorgenti\KNX Crypter 1 Autoit Fileinstall\FileBase64Decrypt\FileBase64Decrypt\obj\x86\Release\Dec.exe
+D:\PenTesting\Sorgenti\KNX Crypter 1 Autoit Fileinstall\FileBase64Decrypt\FileBase64Decrypt\obj\x86\Release\Dec.xml
+D:\PenTesting\Sorgenti\KNX Crypter 1 Autoit Fileinstall\FileBase64Decrypt\FileBase64Decrypt\obj\x86\Release\Dec.pdb
+C:\DATI\Projects\KNX Crypter 1 Autoit Fileinstall\FileBase64Decrypt\FileBase64Decrypt\bin\Release\Decrypt.exe
+C:\DATI\Projects\KNX Crypter 1 Autoit Fileinstall\FileBase64Decrypt\FileBase64Decrypt\bin\Release\Decrypt.pdb
+C:\DATI\Projects\KNX Crypter 1 Autoit Fileinstall\FileBase64Decrypt\FileBase64Decrypt\bin\Release\Decrypt.xml
+C:\DATI\Projects\KNX Crypter 1 Autoit Fileinstall\FileBase64Decrypt\FileBase64Decrypt\obj\x86\Release\ResolveAssemblyReference.cache
+C:\DATI\Projects\KNX Crypter 1 Autoit Fileinstall\FileBase64Decrypt\FileBase64Decrypt\obj\x86\Release\Dec.Form1.resources
+C:\DATI\Projects\KNX Crypter 1 Autoit Fileinstall\FileBase64Decrypt\FileBase64Decrypt\obj\x86\Release\Dec.Resources.resources
+C:\DATI\Projects\KNX Crypter 1 Autoit Fileinstall\FileBase64Decrypt\FileBase64Decrypt\obj\x86\Release\GenerateResource.read.1.tlog
+C:\DATI\Projects\KNX Crypter 1 Autoit Fileinstall\FileBase64Decrypt\FileBase64Decrypt\obj\x86\Release\GenerateResource.write.1.tlog
+C:\DATI\Projects\KNX Crypter 1 Autoit Fileinstall\FileBase64Decrypt\FileBase64Decrypt\obj\x86\Release\Decrypt.exe
+C:\DATI\Projects\KNX Crypter 1 Autoit Fileinstall\FileBase64Decrypt\FileBase64Decrypt\obj\x86\Release\Decrypt.xml
+C:\DATI\Projects\KNX Crypter 1 Autoit Fileinstall\FileBase64Decrypt\FileBase64Decrypt\obj\x86\Release\Decrypt.pdb
+C:\Users\Darix\Desktop\FileBase64Decrypt\FileBase64Decrypt\obj\x86\Release\Decrypt.exe
+C:\Users\Darix\Desktop\FileBase64Decrypt\FileBase64Decrypt\obj\x86\Release\Decrypt.xml
+C:\Users\Darix\Desktop\FileBase64Decrypt\FileBase64Decrypt\obj\x86\Release\Decrypt.pdb

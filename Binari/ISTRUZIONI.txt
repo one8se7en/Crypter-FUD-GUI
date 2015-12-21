@@ -1,0 +1,6 @@
+1. eseguire knxCrypt2.0
+2. questo genera i file stub.exe e stab.knx
+3. con i file nella stessa cartella eseguire finale.au3 (compilarlo)
+4. il file finale.exe generato saràa il file cryptato completo
+
+PS usare le fake externsion in finale.au3 in modo da eseguire l'exe con estensione diversa ad esempio mp3 o jpg :)

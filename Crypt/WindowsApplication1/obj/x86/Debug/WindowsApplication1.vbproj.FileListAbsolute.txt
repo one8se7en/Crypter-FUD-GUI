@@ -1,0 +1,97 @@
+C:\Users\dderos\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dderos\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\dderos\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\dderos\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dderos\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dderos\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\dderos\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\dderos\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\dderos\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\dderos\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\dderos\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\dderos\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dderos\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dderos\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dderos\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\FileBase64Crypt.exe
+C:\Users\dderos\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\FileBase64Crypt.pdb
+C:\Users\dderos\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\FileBase64Crypt.xml
+C:\Users\dderos\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\FileBase64Crypt.Form1.resources
+C:\Users\dderos\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\FileBase64Crypt.Resources.resources
+C:\Users\dderos\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\FileBase64Crypt.exe
+C:\Users\dderos\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\FileBase64Crypt.xml
+C:\Users\dderos\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\FileBase64Crypt.pdb
+D:\Windows\Sorgenti\Visual Basic.net\Miei Progetti\FileBase64Crypt\WindowsApplication1\obj\x86\Debug\FileBase64Crypt.exe
+D:\Windows\Sorgenti\Visual Basic.net\Miei Progetti\FileBase64Crypt\WindowsApplication1\obj\x86\Debug\FileBase64Crypt.xml
+D:\Windows\Sorgenti\Visual Basic.net\Miei Progetti\FileBase64Crypt\WindowsApplication1\obj\x86\Debug\FileBase64Crypt.pdb
+D:\Windows\Sorgenti\Visual Basic.net\Miei Progetti\FileBase64Crypt\WindowsApplication1\bin\Debug\FileBase64Crypt.exe
+D:\Windows\Sorgenti\Visual Basic.net\Miei Progetti\FileBase64Crypt\WindowsApplication1\bin\Debug\FileBase64Crypt.pdb
+D:\Windows\Sorgenti\Visual Basic.net\Miei Progetti\FileBase64Crypt\WindowsApplication1\bin\Debug\FileBase64Crypt.xml
+D:\Windows\Sorgenti\Visual Basic.net\Miei Progetti\FileBase64Crypt\WindowsApplication1\obj\x86\Debug\FileBase64Crypt.Form1.resources
+D:\Windows\Sorgenti\Visual Basic.net\Miei Progetti\FileBase64Crypt\WindowsApplication1\obj\x86\Debug\FileBase64Crypt.Resources.resources
+D:\Windows\Sorgenti\Visual Basic.net\Miei Progetti\FileBase64Crypt\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\Windows\Sorgenti\Visual Basic.net\Miei Progetti\FileBase64Crypt\WindowsApplication1\obj\x86\Debug\FileBase64Crypt.Form2.resources
+D:\PenTesting\Sorgenti\Visual Basic Dot net\Rat-esterno-9999 - Seconda Versione\FileBase64Crypt\WindowsApplication1\bin\Debug\FileBase64Crypt.exe
+D:\PenTesting\Sorgenti\Visual Basic Dot net\Rat-esterno-9999 - Seconda Versione\FileBase64Crypt\WindowsApplication1\bin\Debug\FileBase64Crypt.pdb
+D:\PenTesting\Sorgenti\Visual Basic Dot net\Rat-esterno-9999 - Seconda Versione\FileBase64Crypt\WindowsApplication1\bin\Debug\FileBase64Crypt.xml
+D:\PenTesting\Sorgenti\Visual Basic Dot net\Rat-esterno-9999 - Seconda Versione\FileBase64Crypt\WindowsApplication1\obj\x86\Debug\FileBase64Crypt.Form1.resources
+D:\PenTesting\Sorgenti\Visual Basic Dot net\Rat-esterno-9999 - Seconda Versione\FileBase64Crypt\WindowsApplication1\obj\x86\Debug\FileBase64Crypt.Form2.resources
+D:\PenTesting\Sorgenti\Visual Basic Dot net\Rat-esterno-9999 - Seconda Versione\FileBase64Crypt\WindowsApplication1\obj\x86\Debug\FileBase64Crypt.Resources.resources
+D:\PenTesting\Sorgenti\Visual Basic Dot net\Rat-esterno-9999 - Seconda Versione\FileBase64Crypt\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\PenTesting\Sorgenti\Visual Basic Dot net\Rat-esterno-9999 - Seconda Versione\FileBase64Crypt\WindowsApplication1\obj\x86\Debug\FileBase64Crypt.exe
+D:\PenTesting\Sorgenti\Visual Basic Dot net\Rat-esterno-9999 - Seconda Versione\FileBase64Crypt\WindowsApplication1\obj\x86\Debug\FileBase64Crypt.xml
+D:\PenTesting\Sorgenti\Visual Basic Dot net\Rat-esterno-9999 - Seconda Versione\FileBase64Crypt\WindowsApplication1\obj\x86\Debug\FileBase64Crypt.pdb
+D:\PenTesting\Sorgenti\KNX Crypter 2 - Tutto compreso nel Decrypter\FileBase64Crypt\WindowsApplication1\bin\Debug\FileBase64Crypt.exe
+D:\PenTesting\Sorgenti\KNX Crypter 2 - Tutto compreso nel Decrypter\FileBase64Crypt\WindowsApplication1\bin\Debug\FileBase64Crypt.pdb
+D:\PenTesting\Sorgenti\KNX Crypter 2 - Tutto compreso nel Decrypter\FileBase64Crypt\WindowsApplication1\bin\Debug\FileBase64Crypt.xml
+D:\PenTesting\Sorgenti\KNX Crypter 2 - Tutto compreso nel Decrypter\FileBase64Crypt\WindowsApplication1\obj\x86\Debug\FileBase64Crypt.Form1.resources
+D:\PenTesting\Sorgenti\KNX Crypter 2 - Tutto compreso nel Decrypter\FileBase64Crypt\WindowsApplication1\obj\x86\Debug\FileBase64Crypt.Form2.resources
+D:\PenTesting\Sorgenti\KNX Crypter 2 - Tutto compreso nel Decrypter\FileBase64Crypt\WindowsApplication1\obj\x86\Debug\FileBase64Crypt.Resources.resources
+D:\PenTesting\Sorgenti\KNX Crypter 2 - Tutto compreso nel Decrypter\FileBase64Crypt\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\PenTesting\Sorgenti\KNX Crypter 2 - Tutto compreso nel Decrypter\FileBase64Crypt\WindowsApplication1\obj\x86\Debug\FileBase64Crypt.exe
+D:\PenTesting\Sorgenti\KNX Crypter 2 - Tutto compreso nel Decrypter\FileBase64Crypt\WindowsApplication1\obj\x86\Debug\FileBase64Crypt.xml
+D:\PenTesting\Sorgenti\KNX Crypter 2 - Tutto compreso nel Decrypter\FileBase64Crypt\WindowsApplication1\obj\x86\Debug\FileBase64Crypt.pdb
+C:\Users\dderos\Downloads\KNX Crypter 2 - Tutto compreso nel Decrypter\FileBase64Crypt\WindowsApplication1\obj\x86\Debug\FileBase64Crypt.exe
+C:\Users\dderos\Downloads\KNX Crypter 2 - Tutto compreso nel Decrypter\FileBase64Crypt\WindowsApplication1\obj\x86\Debug\FileBase64Crypt.xml
+C:\Users\dderos\Downloads\KNX Crypter 2 - Tutto compreso nel Decrypter\FileBase64Crypt\WindowsApplication1\obj\x86\Debug\FileBase64Crypt.pdb
+C:\DATI\Projects\KNX Crypter Generatore di Stub + base 64 + RunProcess\Crypt\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\DATI\Projects\KNX Crypter Generatore di Stub + base 64 + RunProcess\Crypt\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\DATI\Projects\KNX Crypter Generatore di Stub + base 64 + RunProcess\Crypt\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\DATI\Projects\KNX Crypter Generatore di Stub + base 64 + RunProcess\Crypt\WindowsApplication1\bin\Debug\KNXCrypt.exe
+C:\DATI\Projects\KNX Crypter Generatore di Stub + base 64 + RunProcess\Crypt\WindowsApplication1\bin\Debug\KNXCrypt.pdb
+C:\DATI\Projects\KNX Crypter Generatore di Stub + base 64 + RunProcess\Crypt\WindowsApplication1\bin\Debug\KNXCrypt.xml
+C:\DATI\Projects\KNX Crypter Generatore di Stub + base 64 + RunProcess\Crypt\WindowsApplication1\obj\x86\Debug\KNXCrypt.Form1.resources
+C:\DATI\Projects\KNX Crypter Generatore di Stub + base 64 + RunProcess\Crypt\WindowsApplication1\obj\x86\Debug\KNXCrypt.Form2.resources
+C:\DATI\Projects\KNX Crypter Generatore di Stub + base 64 + RunProcess\Crypt\WindowsApplication1\obj\x86\Debug\KNXCrypt.Resources.resources
+C:\DATI\Projects\KNX Crypter Generatore di Stub + base 64 + RunProcess\Crypt\WindowsApplication1\obj\x86\Debug\KNXCrypt.exe
+C:\DATI\Projects\KNX Crypter Generatore di Stub + base 64 + RunProcess\Crypt\WindowsApplication1\obj\x86\Debug\KNXCrypt.xml
+C:\DATI\Projects\KNX Crypter Generatore di Stub + base 64 + RunProcess\Crypt\WindowsApplication1\obj\x86\Debug\KNXCrypt.pdb
+C:\Users\Darix\Desktop\Crypt\WindowsApplication1\bin\Debug\KNXCrypt.exe
+C:\Users\Darix\Desktop\Crypt\WindowsApplication1\bin\Debug\KNXCrypt.pdb
+C:\Users\Darix\Desktop\Crypt\WindowsApplication1\bin\Debug\KNXCrypt.xml
+C:\Users\Darix\Desktop\Crypt\WindowsApplication1\obj\x86\Debug\KNXCrypt.Form1.resources
+C:\Users\Darix\Desktop\Crypt\WindowsApplication1\obj\x86\Debug\KNXCrypt.Form2.resources
+C:\Users\Darix\Desktop\Crypt\WindowsApplication1\obj\x86\Debug\KNXCrypt.Resources.resources
+C:\Users\Darix\Desktop\Crypt\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Darix\Desktop\Crypt\WindowsApplication1\obj\x86\Debug\KNXCrypt.exe
+C:\Users\Darix\Desktop\Crypt\WindowsApplication1\obj\x86\Debug\KNXCrypt.xml
+C:\Users\Darix\Desktop\Crypt\WindowsApplication1\obj\x86\Debug\KNXCrypt.pdb
+D:\PenTesting\Sorgenti\KNX Crypter 6 - Generatore stub + base64 + RunPe + Generatore Autoit File separati\Crypt\WindowsApplication1\bin\Debug\KNXCrypt.exe
+D:\PenTesting\Sorgenti\KNX Crypter 6 - Generatore stub + base64 + RunPe + Generatore Autoit File separati\Crypt\WindowsApplication1\bin\Debug\KNXCrypt.pdb
+D:\PenTesting\Sorgenti\KNX Crypter 6 - Generatore stub + base64 + RunPe + Generatore Autoit File separati\Crypt\WindowsApplication1\bin\Debug\KNXCrypt.xml
+D:\PenTesting\Sorgenti\KNX Crypter 6 - Generatore stub + base64 + RunPe + Generatore Autoit File separati\Crypt\WindowsApplication1\obj\x86\Debug\KNXCrypt.Form1.resources
+D:\PenTesting\Sorgenti\KNX Crypter 6 - Generatore stub + base64 + RunPe + Generatore Autoit File separati\Crypt\WindowsApplication1\obj\x86\Debug\KNXCrypt.Resources.resources
+D:\PenTesting\Sorgenti\KNX Crypter 6 - Generatore stub + base64 + RunPe + Generatore Autoit File separati\Crypt\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\PenTesting\Sorgenti\KNX Crypter 6 - Generatore stub + base64 + RunPe + Generatore Autoit File separati\Crypt\WindowsApplication1\obj\x86\Debug\KNXCrypt.exe
+D:\PenTesting\Sorgenti\KNX Crypter 6 - Generatore stub + base64 + RunPe + Generatore Autoit File separati\Crypt\WindowsApplication1\obj\x86\Debug\KNXCrypt.xml
+D:\PenTesting\Sorgenti\KNX Crypter 6 - Generatore stub + base64 + RunPe + Generatore Autoit File separati\Crypt\WindowsApplication1\obj\x86\Debug\KNXCrypt.pdb
+C:\DATI\Projects\KNX Crypter 6 - Generatore stub + base64 + RunPe + Generatore Autoit File separati\Crypt\WindowsApplication1\bin\Debug\KNXCrypt.exe
+C:\DATI\Projects\KNX Crypter 6 - Generatore stub + base64 + RunPe + Generatore Autoit File separati\Crypt\WindowsApplication1\bin\Debug\KNXCrypt.pdb
+C:\DATI\Projects\KNX Crypter 6 - Generatore stub + base64 + RunPe + Generatore Autoit File separati\Crypt\WindowsApplication1\bin\Debug\KNXCrypt.xml
+C:\DATI\Projects\KNX Crypter 6 - Generatore stub + base64 + RunPe + Generatore Autoit File separati\Crypt\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\DATI\Projects\KNX Crypter 6 - Generatore stub + base64 + RunPe + Generatore Autoit File separati\Crypt\WindowsApplication1\obj\x86\Debug\KNXCrypt.Form1.resources
+C:\DATI\Projects\KNX Crypter 6 - Generatore stub + base64 + RunPe + Generatore Autoit File separati\Crypt\WindowsApplication1\obj\x86\Debug\KNXCrypt.Resources.resources
+C:\DATI\Projects\KNX Crypter 6 - Generatore stub + base64 + RunPe + Generatore Autoit File separati\Crypt\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\DATI\Projects\KNX Crypter 6 - Generatore stub + base64 + RunPe + Generatore Autoit File separati\Crypt\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\DATI\Projects\KNX Crypter 6 - Generatore stub + base64 + RunPe + Generatore Autoit File separati\Crypt\WindowsApplication1\obj\x86\Debug\KNXCrypt.exe
+C:\DATI\Projects\KNX Crypter 6 - Generatore stub + base64 + RunPe + Generatore Autoit File separati\Crypt\WindowsApplication1\obj\x86\Debug\KNXCrypt.xml
+C:\DATI\Projects\KNX Crypter 6 - Generatore stub + base64 + RunPe + Generatore Autoit File separati\Crypt\WindowsApplication1\obj\x86\Debug\KNXCrypt.pdb

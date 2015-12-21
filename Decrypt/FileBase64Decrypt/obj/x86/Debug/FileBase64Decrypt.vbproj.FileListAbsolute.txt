@@ -1,0 +1,29 @@
+C:\Users\dderos\AppData\Local\Temporary Projects\FileBase64Decrypt\bin\Debug\FileBase64Decrypt.exe
+C:\Users\dderos\AppData\Local\Temporary Projects\FileBase64Decrypt\bin\Debug\FileBase64Decrypt.pdb
+C:\Users\dderos\AppData\Local\Temporary Projects\FileBase64Decrypt\bin\Debug\FileBase64Decrypt.xml
+C:\Users\dderos\AppData\Local\Temporary Projects\FileBase64Decrypt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dderos\AppData\Local\Temporary Projects\FileBase64Decrypt\obj\x86\Debug\FileBase64Decrypt.Form1.resources
+C:\Users\dderos\AppData\Local\Temporary Projects\FileBase64Decrypt\obj\x86\Debug\FileBase64Decrypt.Resources.resources
+C:\Users\dderos\AppData\Local\Temporary Projects\FileBase64Decrypt\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dderos\AppData\Local\Temporary Projects\FileBase64Decrypt\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dderos\AppData\Local\Temporary Projects\FileBase64Decrypt\obj\x86\Debug\FileBase64Decrypt.exe
+C:\Users\dderos\AppData\Local\Temporary Projects\FileBase64Decrypt\obj\x86\Debug\FileBase64Decrypt.xml
+C:\Users\dderos\AppData\Local\Temporary Projects\FileBase64Decrypt\obj\x86\Debug\FileBase64Decrypt.pdb
+D:\Windows\Sorgenti\Visual Basic.net\Miei Progetti\FileBase64Decrypt\FileBase64Decrypt\bin\Debug\FileBase64Decrypt.exe
+D:\Windows\Sorgenti\Visual Basic.net\Miei Progetti\FileBase64Decrypt\FileBase64Decrypt\bin\Debug\FileBase64Decrypt.pdb
+D:\Windows\Sorgenti\Visual Basic.net\Miei Progetti\FileBase64Decrypt\FileBase64Decrypt\bin\Debug\FileBase64Decrypt.xml
+D:\Windows\Sorgenti\Visual Basic.net\Miei Progetti\FileBase64Decrypt\FileBase64Decrypt\obj\x86\Debug\FileBase64Decrypt.Form1.resources
+D:\Windows\Sorgenti\Visual Basic.net\Miei Progetti\FileBase64Decrypt\FileBase64Decrypt\obj\x86\Debug\FileBase64Decrypt.Resources.resources
+D:\Windows\Sorgenti\Visual Basic.net\Miei Progetti\FileBase64Decrypt\FileBase64Decrypt\obj\x86\Debug\FileBase64Decrypt.vbproj.GenerateResource.Cache
+D:\Windows\Sorgenti\Visual Basic.net\Miei Progetti\FileBase64Decrypt\FileBase64Decrypt\obj\x86\Debug\FileBase64Decrypt.exe
+D:\Windows\Sorgenti\Visual Basic.net\Miei Progetti\FileBase64Decrypt\FileBase64Decrypt\obj\x86\Debug\FileBase64Decrypt.xml
+D:\Windows\Sorgenti\Visual Basic.net\Miei Progetti\FileBase64Decrypt\FileBase64Decrypt\obj\x86\Debug\FileBase64Decrypt.pdb
+C:\Users\Darix\Desktop\FileBase64Decrypt\FileBase64Decrypt\bin\Debug\FileBase64Decrypt.exe
+C:\Users\Darix\Desktop\FileBase64Decrypt\FileBase64Decrypt\bin\Debug\FileBase64Decrypt.pdb
+C:\Users\Darix\Desktop\FileBase64Decrypt\FileBase64Decrypt\bin\Debug\FileBase64Decrypt.xml
+C:\Users\Darix\Desktop\FileBase64Decrypt\FileBase64Decrypt\obj\x86\Debug\FileBase64Decrypt.Form1.resources
+C:\Users\Darix\Desktop\FileBase64Decrypt\FileBase64Decrypt\obj\x86\Debug\FileBase64Decrypt.Resources.resources
+C:\Users\Darix\Desktop\FileBase64Decrypt\FileBase64Decrypt\obj\x86\Debug\FileBase64Decrypt.vbproj.GenerateResource.Cache
+C:\Users\Darix\Desktop\FileBase64Decrypt\FileBase64Decrypt\obj\x86\Debug\FileBase64Decrypt.exe
+C:\Users\Darix\Desktop\FileBase64Decrypt\FileBase64Decrypt\obj\x86\Debug\FileBase64Decrypt.xml
+C:\Users\Darix\Desktop\FileBase64Decrypt\FileBase64Decrypt\obj\x86\Debug\FileBase64Decrypt.pdb
